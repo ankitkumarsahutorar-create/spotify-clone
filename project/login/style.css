@@ -1,0 +1,18 @@
+*{
+    background-color:#061A23;
+
+}
+.box-login{
+    background-color:#061A23;
+    margin-top: 150px;
+    margin-left:320px;
+    height:25rem;
+    width:51;
+    border: 2px solid #00E5ff;
+    box-shadow: 0 0 15px #00d9ff;
+    color: white;
+    clip-path: polygon(35% 0, 100% 0, 100% 100, 70% 100);
+}
+.fa-solid{
+    color: black;
+}
